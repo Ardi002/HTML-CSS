@@ -1,0 +1,43 @@
+.align-left {
+  text-align: left;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.align-center {
+  text-align: center;
+}
+
+/* CSS untuk navbar */
+nav {
+  background-color: #f1f1f1;
+  padding: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+/* CSS untuk background */
+.profile-background {
+  background-image: url(img/2.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  padding: 20px;
+}
+
+/* CSS untuk bagian tentang saya */
+#about {
+  text-align: center;
+}
+
+/* CSS untuk footer */
+footer {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;
+}
